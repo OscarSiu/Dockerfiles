@@ -21,7 +21,7 @@ sudo systemctl start docker
  Add user to docker group
 `sudo usermod -aG docker username>`
 
-==reboot==
+Reboot
 
 Run docker
 `sudo docker run hello-world`
